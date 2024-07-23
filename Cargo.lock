@@ -2073,6 +2073,7 @@ name = "thiserror_"
 version = "0.1.0"
 dependencies = [
  "common",
+ "thiserror",
 ]
 
 [[package]]
